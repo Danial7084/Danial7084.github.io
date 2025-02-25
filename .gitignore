@@ -1,0 +1,14 @@
+# Ignore the generated public directory
+/public/
+
+# Ignore Hugo resources cache (if applicable)
+resources/_gen/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
