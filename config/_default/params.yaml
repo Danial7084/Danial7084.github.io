@@ -13,11 +13,12 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'Foster School of Business, University of Washington'
+    description: "Danial Salman's research website. PhD Student in Finance at the University of Washington."
+    twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-59Y3Y9GRDW'
+    google_tag_manager: 'GTM-T2T2GBXJ'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
