@@ -38,16 +38,20 @@ sections:
       text: |
         **End of the Road? Autonomous Vehicles and Displacement Risk**  
         <details>
-        <summary>Abstract</summary>
+        <summary>{{< icon name="hero/document-text" size="20" >}}Abstract</summary>
         New technologies have motivated renewed concerns about job displacement. In this paper, I link workers' subjective displacement expectations to their social exposure to a disruptive technology. I find that the share of commercial driver licenses and employment in truck driving fall disproportionately in areas that are more socially connected to Phoenix and San Francisco, cities with large-scale autonomous vehicle testing. The remaining drivers extend their work hours and decrease participation in mortgage markets relative to less connected, neighboring drivers. The results suggest that welfare or policy assessments evaluating the impact of automation should account for an anticipatory channel.
         </details>
 
         **Relief Beliefs: Effects of Anticipated Student Loan Forgiveness**  
         (with [Xuan Xie](https://sites.google.com/uw.edu/xuanxie/home))
-        <details>
-        <summary>Abstract</summary>
+        <span style="display: inline-flex; align-items: center;">
+        <details style="display: inline;">
+        <summary>{{< icon name="hero/document-text" size="20" >}}Abstract</summary>
         Political support for student loan forgiveness has been growing, particularly on the left, but evidence regarding its effects remains limited. We evaluate the immediate consumption response to President Biden's 2022 loan forgiveness announcement which promised debt relief of $10,000 to $20,000 for approximately 42 million borrowers. We find that retail stores located in counties with a 1% higher share of eligible student loan borrowers saw a persistent 0.1% increase in weekly sales. The positive spending response was absent in counties with high shares of delinquent households. Novel data on debt relief eligibility and applications suggest that student loan borrowers anticipated relief they ultimately did not receive.
         </details>
+        &nbsp;|&nbsp;
+        <a href="uploads/DS_XX_Relief_Beliefs.pdf">{{< icon name="hero/arrow-down-tray" size="20" >}}PDF</a>
+        </span>
   - block: markdown
     id: wip
     content:
