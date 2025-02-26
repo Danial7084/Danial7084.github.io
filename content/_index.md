@@ -50,7 +50,7 @@ sections:
         Political support for student loan forgiveness has been growing, particularly on the left, but evidence regarding its effects remains limited. We evaluate the immediate consumption response to President Biden's 2022 loan forgiveness announcement which promised debt relief of $10,000 to $20,000 for approximately 42 million borrowers. We find that retail stores located in counties with a 1% higher share of eligible student loan borrowers saw a persistent 0.1% increase in weekly sales. The positive spending response was absent in counties with high shares of delinquent households. Novel data on debt relief eligibility and applications suggest that student loan borrowers anticipated relief they ultimately did not receive.
         </details>
         &nbsp;|&nbsp;
-        <a href="uploads/DS_XX_Relief_Beliefs.pdf">{{< icon name="hero/arrow-down-tray" size="20" >}}PDF</a>
+        <a href="uploads/DS_XX_Relief_Beliefs.pdf" target="_blank" rel="noopener noreferrer">{{< icon name="hero/arrow-down-tray" size="20" >}}PDF</a>
         </span>
   - block: markdown
     id: wip
