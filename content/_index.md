@@ -51,6 +51,9 @@ sections:
         </details>
         &nbsp;|&nbsp;
         <a href="uploads/DS_XX_Relief_Beliefs.pdf" target="_blank" rel="noopener noreferrer">{{< icon name="hero/arrow-down-tray" size="20" >}}PDF</a>
+        &nbsp;|&nbsp;
+        <a href="https://ssrn.com/abstract=5157757" target="_blank" rel="noopener noreferrer">
+          {{< icon name="hero/link" size="20" >}}SSRN</a>
         </span>
   - block: markdown
     id: wip
