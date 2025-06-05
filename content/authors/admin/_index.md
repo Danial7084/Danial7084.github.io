@@ -31,8 +31,8 @@ profiles:
 
 ---
 
-Hello! I am a PhD student in Finance at the Foster School of Business at the University of Washington. Previously, I worked at the Center for Global Development after graduating from Boston University.
+**I am a PhD Candidate in Finance at the Foster School of Business at the University of Washington. I am on the 2025-2026 academic job market.**
 
-My current research focuses on household finance, labor economics, innovation & venture capital.
+My current research focuses on household finance, labor economics, innovation & venture capital. Previously, I worked at the Center for Global Development after graduating from Boston University.
 
 Email: dsalman@uw.edu
