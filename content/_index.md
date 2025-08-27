@@ -42,8 +42,7 @@ sections:
         New technologies have motivated renewed concerns about job displacement. In this paper, I link workers' subjective displacement expectations to their social exposure to a disruptive technology. I find that the share of commercial driver licenses and employment in truck driving fall disproportionately in areas that are more socially connected to Phoenix and San Francisco, cities with large-scale autonomous vehicle testing. The remaining drivers extend their work hours and decrease participation in mortgage markets relative to less connected, neighboring drivers. The results suggest that welfare or policy assessments evaluating the impact of automation should account for an anticipatory channel.
         </details>
 
-        **Relief Beliefs: Effects of Anticipated Student Loan Forgiveness**  
-        (with [Xuan Xie](https://sites.google.com/uw.edu/xuanxie/home))
+        **Relief Beliefs: Effects of Anticipated Student Loan Forgiveness**  (with [Xuan Xie](https://sites.google.com/uw.edu/xuanxie/home))
         <span style="display: inline-flex; align-items: center;">
         <details style="display: inline;">
         <summary>{{< icon name="hero/document-text" size="20" >}}Abstract</summary>
