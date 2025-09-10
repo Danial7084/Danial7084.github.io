@@ -36,13 +36,17 @@ sections:
     content:
       title: Working Papers
       text: |
-        **End of the Road? Autonomous Vehicles and Displacement Risk**  
-        <details>
+        **End of the Road? Autonomous Vehicles and Displacement Risk** (JMP)
+        <span style="display: inline-flex; align-items: center;">
+        <details style="display: inline;">
         <summary>{{< icon name="hero/document-text" size="20" >}}Abstract</summary>
         New technologies have motivated renewed concerns about job displacement. In this paper, I link workers' subjective displacement expectations to their direct and social exposure to a disruptive technology: autonomous vehicles (AVs). I find that commercial driver licensing and employment in truck driving fall disproportionately in more AV-exposed areas. The remaining drivers extend their work hours and reduce their participation in mortgage markets relative to less-exposed, neighboring drivers. Changes in household substance use are consistent with heightened automation-induced anxiety and revised beliefs about susceptibility to automation. The results indicate that perceived displacement risk affects households' labor supply, credit behavior, and health, all of which could inform welfare assessments and policy responses to automation.
         </details>
+        &nbsp;|&nbsp;
+        <a href="uploads/DS_End_of_the_Road.pdf" target="_blank" rel="noopener noreferrer">{{< icon name="hero/arrow-down-tray" size="20" >}}PDF</a>
+        </span>
 
-        **Relief Beliefs: Effects of Anticipated Student Loan Forgiveness**  (with [Xuan Xie](https://sites.google.com/uw.edu/xuanxie/home))
+        **Relief Beliefs: Effects of Anticipated Student Loan Forgiveness** (with [Xuan Xie](https://sites.google.com/uw.edu/xuanxie/home))
         <span style="display: inline-flex; align-items: center;">
         <details style="display: inline;">
         <summary>{{< icon name="hero/document-text" size="20" >}}Abstract</summary>
