@@ -1,0 +1,45 @@
+/* Minimal styles for abstracts + figures (figure below text) */
+
+details.abstract {
+  margin: 0.25rem 0 1.25rem;
+}
+details.abstract summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+}
+details.abstract summary::-webkit-details-marker { display: none; }
+
+/* Figure under abstract, centered */
+details.abstract figure {
+  margin: 0.75rem auto 0;   /* center the figure block */
+  text-align: center;
+}
+details.abstract img {
+  max-width: 100%;          /* never overflow the column */
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  box-shadow: 0 1px 10px rgba(0,0,0,.06);
+}
+details.abstract figcaption {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-top: 0.35rem;
+  line-height: 1.2;
+}
+
+/* Resource links row */
+.paper { margin: 0 0 1.25rem; }
+.paper-actions {
+  display: inline-flex;
+  gap: 0.75rem;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+.paper-actions a { text-decoration: underline; }
+
+/* Optional: keep very large images from getting huge on wide desktops */
+@media (min-width: 1200px) {
+  details.abstract figure { max-width: 640px; }
+}
