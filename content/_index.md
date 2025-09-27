@@ -100,14 +100,11 @@ sections:
             {{< icon name="hero/arrow-down-tray" size="20" >}} PDF</a>
           <a href="https://ssrn.com/abstract=5157757" target="_blank" rel="noopener noreferrer">
             {{< icon name="hero/link" size="20" >}} SSRN</a>
-          <p class="punchline">{{< icon name="hero/light-bulb" size="18" >}}Our results highlight that government debt relief interventions can have stimulatory 
-          effects and underscore the role of policymakers in shaping expectations</p>
+          <p class="punchline">{{< icon name="hero/light-bulb" size="18" >}}Our results highlight that government debt relief interventions can have stimulatory effects and underscore the role of policymakers in shaping expectations</p>
           <div class="presentations">{{< icon name="hero/presentation-chart-bar" size="18" >}}American Finance Association 2026 (scheduled, poster), 
           Financial Management Association 2025 (scheduled), Southern Finance Association 2025 (scheduled), Inter-Finance PhD Seminar
           </div>
-          <br>
-          <div class="awards">FMA 2025 Annual Meeting Best Paper Award (semifinalist)
-          </div>
+          <p class="awards">{{< icon name="hero/presentation-chart-line" size="18" >}}FMA 2025 Annual Meeting Best Paper Award (semifinalist)</p>
         </div>
         </div>
 
