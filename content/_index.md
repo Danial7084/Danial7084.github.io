@@ -105,7 +105,8 @@ sections:
           <div class="presentations">{{< icon name="hero/presentation-chart-bar" size="18" >}}American Finance Association 2026 (scheduled, poster), 
           Financial Management Association 2025 (scheduled), Southern Finance Association 2025 (scheduled), Inter-Finance PhD Seminar
           </div>
-          <div class="awards">{{< icon name="hero/trophy" size="18" >}}FMA 2025 Annual Meeting Best Paper Award (semifinalist)
+          <br>
+          <div class="awards">FMA 2025 Annual Meeting Best Paper Award (semifinalist)
           </div>
         </div>
         </div>
