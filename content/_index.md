@@ -64,10 +64,9 @@ sections:
         <div class="paper-actions">
           <a href="uploads/DS_End_of_the_Road.pdf" target="_blank" rel="noopener noreferrer">
             {{< icon name="hero/arrow-down-tray" size="20" >}} PDF</a>
-          <div class="presentations">
-            {{< icon name="hero/presentation-chart-bar" size="20" >}} Presentations: 
-            American Economic Association 2026 (scheduled), Society of Labor Economists 2025, 
-            Wharton Innovation Doctoral Symposium 2025, Western Economic Association International 2024
+          <p class="punchline">{{< icon name="hero/light-bulb" size="18" >}}Households take precautionary measures once alerted to the threat of automation</p>
+          <div class="presentations">{{< icon name="hero/presentation-chart-bar" size="18" >}}American Economic Association 2026 (scheduled), 
+          Society of Labor Economists 2025, Wharton Innovation Doctoral Symposium 2025, Western Economic Association International 2024
           </div>  
         </div>
         </div>
@@ -101,13 +100,12 @@ sections:
             {{< icon name="hero/arrow-down-tray" size="20" >}} PDF</a>
           <a href="https://ssrn.com/abstract=5157757" target="_blank" rel="noopener noreferrer">
             {{< icon name="hero/link" size="20" >}} SSRN</a>
-          <div class="presentations">
-            {{< icon name="hero/presentation-chart-bar" size="20" >}} Presentations: 
-            American Finance Association 2026 (scheduled, poster), Financial Management Association 2025 (scheduled), 
-            Southern Finance Association 2025 (scheduled), Inter-Finance PhD Seminar
+          <p class="punchline">{{< icon name="hero/light-bulb" size="18" >}}Our results highlight that government debt relief interventions can have stimulatory 
+          effects and underscore the role of policymakers in shaping expectations</p>
+          <div class="presentations">{{< icon name="hero/presentation-chart-bar" size="18" >}}American Finance Association 2026 (scheduled, poster), 
+          Financial Management Association 2025 (scheduled), Southern Finance Association 2025 (scheduled), Inter-Finance PhD Seminar
           </div>
-          <div class="awards">
-            Semifinalist for FMA 2025 Annual Meeting Best Paper Award
+          <div class="awards">{{< icon name="hero/trophy" size="18" >}}FMA 2025 Annual Meeting Best Paper Award (semifinalist)
           </div>
         </div>
         </div>

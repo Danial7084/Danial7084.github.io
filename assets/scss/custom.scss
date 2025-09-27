@@ -29,16 +29,6 @@ details.abstract figcaption {
   line-height: 1.2;
 }
 
-/* Resource links row */
-.paper { margin: 0 0 1.25rem; }
-.paper-actions {
-  display: inline-flex;
-  gap: 0.75rem;
-  align-items: center;
-  margin-top: 0.5rem;
-}
-.paper-actions a { text-decoration: underline; }
-
 /* Optional: keep very large images from getting huge on wide desktops */
 @media (min-width: 1200px) {
   details.abstract figure { max-width: 640px; }
