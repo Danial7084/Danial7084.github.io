@@ -31,8 +31,8 @@ profiles:
 
 ---
 
-**I am a PhD Candidate in Finance at the Foster School of Business at the University of Washington. I am on the 2025-2026 academic job market.**
+**I am a PhD Candidate in Finance at the Foster School of Business at the University of Washington. In Fall 2026, I will join Vanderbilt University as a Postdoctoral Scholar in the Owen Graduate School of Management.**
 
-My current research focuses on household finance, labor economics, innovation & venture capital. Previously, I worked at the Center for Global Development after graduating from Boston University.
+My research focuses on household finance, labor economics, innovation & venture capital. Previously, I worked at the Center for Global Development after graduating from Boston University.
 
 Email: dsalman@uw.edu
