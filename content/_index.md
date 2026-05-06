@@ -37,7 +37,7 @@ sections:
     content:
       title: Working Papers
       text: |
-        **End of the Road? Autonomous Vehicles and Displacement Risk** (JMP)
+        **End of the Road? Autonomous Vehicles and Displacement Risk**
         <div class="paper">
         <details class="abstract">
         <summary>{{< icon name="hero/document-text" size="20" >}}Abstract</summary>
@@ -64,6 +64,8 @@ sections:
         <div class="paper-actions">
           <a href="uploads/DS_End_of_the_Road.pdf" target="_blank" rel="noopener noreferrer">
             {{< icon name="hero/arrow-down-tray" size="20" >}} PDF</a>
+            <a href="https://ssrn.com/abstract=6725879" target="_blank" rel="noopener noreferrer">
+            {{< icon name="hero/link" size="20" >}} SSRN</a>
           <p class="punchline">{{< icon name="hero/light-bulb" size="18" >}}Households take precautionary measures once alerted to the threat of automation</p>
           <div class="presentations">{{< icon name="hero/presentation-chart-bar" size="18" >}}American Economic Association 2026, Colorado Finance Summit 2025, ABFR Doctoral Research Symposium 2025, Society of Labor Economists 2025, Wharton Innovation Doctoral Symposium 2025, Western Economic Association International 2024
           </div>  
