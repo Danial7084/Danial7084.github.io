@@ -66,8 +66,10 @@ sections:
             {{< icon name="hero/arrow-down-tray" size="20" >}} PDF</a>
             <a href="https://ssrn.com/abstract=6725879" target="_blank" rel="noopener noreferrer">
             {{< icon name="hero/link" size="20" >}} SSRN</a>
+          <a href="https://www.ft.com/content/e888b187-75c0-4233-9588-d1b9948b1b0a" target="_blank" rel="noopener noreferrer">
+            {{< icon name="hero/newspaper" size="20" >}} Financial Times</a>
           <p class="punchline">{{< icon name="hero/light-bulb" size="18" >}}Households respond preemptively to the threat of automation</p>
-          <div class="presentations">{{< icon name="hero/presentation-chart-bar" size="18" >}}NBER Economics of Transportation 2026, American Economic Association 2026, Colorado Finance Summit 2025, ABFR Doctoral Research Symposium 2025, Wharton Innovation Doctoral Symposium 2025
+          <div class="presentations">{{< icon name="hero/presentation-chart-bar" size="18" >}}NBER SI 2026 Digital Economics and Artificial Intelligence, NBER Economics of Transportation Spring 2026, Colorado Finance Summit 2025
           </div>  
         </div>
         </div>
@@ -102,7 +104,7 @@ sections:
           <a href="https://ssrn.com/abstract=5157757" target="_blank" rel="noopener noreferrer">
             {{< icon name="hero/link" size="20" >}} SSRN</a>
           <p class="punchline">{{< icon name="hero/light-bulb" size="18" >}}Our results indicate that government debt relief interventions can have stimulatory effects and highlight the role of policymakers in shaping expectations</p>
-          <div class="presentations">{{< icon name="hero/presentation-chart-bar" size="18" >}}NBER Economics of Education Spring 2026, American Finance Association 2026 (poster), Southern Finance Association 2025, Financial Management Association 2025
+          <div class="presentations">{{< icon name="hero/presentation-chart-bar" size="18" >}}NBER Economics of Education Spring 2026, 10th SAFE Household Finance Workshop
           </div>
           <p class="awards">{{< icon name="hero/presentation-chart-line" size="18" >}}FMA 2025 Annual Meeting Best Paper Award (semifinalist)</p>
         </div>
