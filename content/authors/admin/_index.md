@@ -13,26 +13,28 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-# role: PhD Student
+# role: Postdoctoral Scholar in Finance
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
-#   - name: Foster School of Business, University of Washington
-#     url: https://foster.uw.edu
+#   - name: Owen Graduate School of Management, Vanderbilt University
+#     url: https://business.vanderbilt.edu/
 
 # Research links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:dsalman@uw.edu'
+    url: 'mailto:danial.salman@vanderbilt.edu'
     label: E-mail Me
 #   - icon: academicons/google-scholar
 #     url: https://scholar.google.com/
 
 ---
 
-**I am a PhD Candidate in Finance at the Foster School of Business at the University of Washington. In Fall 2026, I will join Vanderbilt University as a Postdoctoral Scholar in the Owen Graduate School of Management.**
+**I am a Postdoctoral Scholar in Finance at the Owen Graduate School of Management at Vanderbilt University.**
 
-My research focuses on household finance, labor economics, innovation & venture capital. Previously, I worked at the Center for Global Development after graduating from Boston University.
+My research interests are in household finance, labor and finance, innovation, and venture capital.
 
-Email: dsalman@uw.edu
+I received my Ph.D. in Finance from the Foster School of Business at the University of Washington. Previously, I worked at the Center for Global Development after graduating from Boston University.
+
+Email: danial.salman@vanderbilt.edu
