@@ -31,10 +31,8 @@ profiles:
 
 ---
 
-**I am a Postdoctoral Scholar in Finance at the Owen Graduate School of Management at Vanderbilt University.**
+**Welcome! I am a Postdoctoral Scholar in Finance at the Owen Graduate School of Management at Vanderbilt University.**
 
-My research interests are in household finance, labor and finance, innovation, and venture capital.
-
-I received my Ph.D. in Finance from the Foster School of Business at the University of Washington. Previously, I worked at the Center for Global Development after graduating from Boston University.
+I hold a Ph.D. in Finance from the Foster School of Business at the University of Washington. My research interests are in household finance, labor and finance, innovation, and venture capital.
 
 Email: danial.salman@vanderbilt.edu
