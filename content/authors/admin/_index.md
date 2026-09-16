@@ -31,7 +31,7 @@ profiles:
 
 ---
 
-**Welcome! I am a Postdoctoral Scholar in Finance at the Owen Graduate School of Management at Vanderbilt University.**
+**Welcome! I am a Postdoctoral Scholar in Finance at Vanderbilt University's Owen Graduate School of Management.**
 
 I hold a Ph.D. in Finance from the Foster School of Business at the University of Washington. My research interests are in household finance, labor and finance, innovation, and venture capital.
 
